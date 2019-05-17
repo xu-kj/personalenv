@@ -1,4 +1,4 @@
-# Set up environment with Chocolatey
+# Set up Chocolatey
 
 Chocolatey official [installation instructions][choco.org/install]
 
